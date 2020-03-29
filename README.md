@@ -25,7 +25,7 @@ Due to its interpretability and ability to quantitatively translate the inputs t
 
 The entire workflow is shown below,
 
-![workflow](Demo/wf.PNG)
+![workflow](Demo/wf.png)
 
 ### Install
 
